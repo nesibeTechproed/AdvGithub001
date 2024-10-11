@@ -21,5 +21,7 @@ public class Runner {
 
         System.out.println("nesibe task 1");
 
+        //dev 2 nin çalışmaları
+
     }
 }
