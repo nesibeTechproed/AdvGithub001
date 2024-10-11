@@ -19,5 +19,7 @@ public class Runner {
         System.out.println("dev1 in çalışmaları");
         //dev 2 nin çalışmaları
 
+        System.out.println("nesibe task 1");
+
     }
 }
