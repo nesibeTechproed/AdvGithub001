@@ -11,6 +11,9 @@ public class Runner {
         System.out.println("deneme 1");
 
         System.out.println("techpro 3");
+        System.out.println("techpro 4");
+        System.out.println("techpro 4 devam");
+        System.out.println("techpro 4 tamamlandı");
 
 
     }
