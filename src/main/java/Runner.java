@@ -10,6 +10,8 @@ public class Runner {
 
         System.out.println("deneme 1");
 
+        System.out.println("techpro 3");
+
 
     }
 }
