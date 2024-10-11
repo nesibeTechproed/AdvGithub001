@@ -21,7 +21,10 @@ public class Runner {
 
         System.out.println("nesibe task 1");
 
+
         System.out.println("nesibe task 2");
+
+
 
     }
 }
